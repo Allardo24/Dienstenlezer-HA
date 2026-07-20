@@ -1,5 +1,5 @@
 name: DienstenLezer
-version: "1.3.0"
+version: "1.3.1"
 slug: dienstenlezer
 description: Diensten-pdf's, omlopen, dienstbegeleiding en Qbuzz-livegegevens.
 url: "https://dienstenlezer.allardnet.nl"
@@ -14,7 +14,9 @@ ports:
   "8080/tcp": 8080
 ports_description:
   "8080/tcp": DienstenLezer webinterface
-webui: "http://[HOST]:[PORT:8080]"
+ingress: true
+ingress_port: 8080
+ingress_stream: true
 watchdog: "http://[HOST]:[PORT:8080]/api/health"
 panel_icon: mdi:bus-clock
 backup: cold
