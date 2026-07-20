@@ -1,0 +1,23 @@
+name: DienstenLezer
+version: "1.3.0"
+slug: dienstenlezer
+description: Diensten-pdf's, omlopen, dienstbegeleiding en Qbuzz-livegegevens.
+url: "https://dienstenlezer.allardnet.nl"
+arch:
+  - aarch64
+  - amd64
+startup: application
+boot: auto
+init: false
+stage: experimental
+ports:
+  "8080/tcp": 8080
+ports_description:
+  "8080/tcp": DienstenLezer webinterface
+webui: "http://[HOST]:[PORT:8080]"
+watchdog: "http://[HOST]:[PORT:8080]/api/health"
+panel_icon: mdi:bus-clock
+backup: cold
+options: {}
+schema: {}
+image: "ghcr.io/allardo24/dienstenlezer"
