@@ -1,5 +1,10 @@
 # Wijzigingen
 
+## 1.4.5
+
+- Accountrollen kunnen worden aangepast. Statistieken tonen cumulatieve diensttijd. Achievementvoortgang uit JSON-regels is hersteld. Tijdelijk ontbrekende Qbuzz-koppelingen worden niet langer als feedstoring weergegeven. Diverse parser- en interfaceverbeteringen.
+- De Home Assistant-image wordt voorlopig alleen voor Raspberry Pi 4 (`aarch64`) gebouwd.
+
 ## 1.4.4
 
 - Verbetering in de diensteninvoer
