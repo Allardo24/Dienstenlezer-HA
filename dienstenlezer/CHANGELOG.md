@@ -1,5 +1,12 @@
 # Wijzigingen
 
+## 1.4.6
+
+- Dienstenpakketten kunnen vanaf nu een verloopdatum hebben
+- De tijdbalk blijft zichtbaar bij het omlopenoverzicht
+- ORT is niet meer gerhardcoded maar aanpasbaar
+- De bestandenpagina reset niet meer na iedere input
+
 ## 1.4.5
 
 - Accountrollen kunnen worden aangepast. Statistieken tonen cumulatieve diensttijd. Achievementvoortgang uit JSON-regels is hersteld. Tijdelijk ontbrekende Qbuzz-koppelingen worden niet langer als feedstoring weergegeven. Diverse parser- en interfaceverbeteringen.
