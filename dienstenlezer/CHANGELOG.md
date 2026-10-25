@@ -1,12 +1,17 @@
 # Wijzigingen
 
+## 1.7.0
+
+- Uitbreiding van routerherkenning richting interne identificatoren
+- Nu worden meerdere lijn X'en ondersteund
+
 ## 1.6.0
 
 - Vernieuwde, compactere header met subtiele datumweergave.
 - Busnummers openen nu voor Qbuzz en Transdev de bijbehorende ritpagina op Busposities.nl.
 - Qbuzz-busbadges hebben weer de juiste opmaak en zijn klikbaar.
 - Live-status in Omlopen gelijkgetrokken met Dienstbegeleiding.
-- Optie ‘regels zonder omloop tonen’ verwijderd; deze regels blijven standaard zichtbaar.
+- Optie â€˜regels zonder omloop tonenâ€™ verwijderd; deze regels blijven standaard zichtbaar.
 - Locaties staan in ritblokken nu bovenaan in vet, met het ritnummer eronder in kleiner grijs.
 
 ## 1.5.0
