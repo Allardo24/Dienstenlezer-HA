@@ -1,5 +1,13 @@
 # Wijzigingen
 
+## 1.7.1
+
+- Achievements werken nu met de g/z getallen
+- Ondersteuning toegevoegd voor bustypeherkenning dmv omloop
+- herijking data in uitdraaitabellen
+- Actieve blijft niet meer hangen bij het eerste ritdeel als de rit verdeelt is
+- bug bij late ritten opgelost
+
 ## 1.7.0
 
 - Uitbreiding van routerherkenning richting interne identificatoren
