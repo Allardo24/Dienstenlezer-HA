@@ -1,5 +1,12 @@
 # Wijzigingen
 
+## 1.7.3
+
+- Vriendenfunctie met vriendcodes, verzoeken en instelbaar delen toegevoegd.
+- Gedeelde diensten en huidige bezigheden zichtbaar in de vriendenlijst.
+- Dienstoverzicht toegevoegd aan Vrienden en Omlopen, met markering van de actieve rit.
+- Dienstselectie gebruikt persoonlijk dienstblad, bevestigde dienst of vastgezette dienst.
+
 ## 1.7.2
 
 - Voeg vrienden toe met een korte vriendcode en beheer vriendschapsverzoeken.
@@ -25,7 +32,7 @@
 - Busnummers openen nu voor Qbuzz en Transdev de bijbehorende ritpagina op Busposities.nl.
 - Qbuzz-busbadges hebben weer de juiste opmaak en zijn klikbaar.
 - Live-status in Omlopen gelijkgetrokken met Dienstbegeleiding.
-- Optie ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“regels zonder omloop tonenÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ verwijderd; deze regels blijven standaard zichtbaar.
+- Optie ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œregels zonder omloop tonenÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ verwijderd; deze regels blijven standaard zichtbaar.
 - Locaties staan in ritblokken nu bovenaan in vet, met het ritnummer eronder in kleiner grijs.
 
 ## 1.5.0
