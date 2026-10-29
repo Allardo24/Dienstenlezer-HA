@@ -1,5 +1,11 @@
 # Wijzigingen
 
+## 1.7.2
+
+- Voeg vrienden toe met een korte vriendcode en beheer vriendschapsverzoeken.
+- Kies per vriend of je jouw dienst van vandaag deelt.
+- Een rood bolletje bij de vriendenknop toont dat er een gedeelde dienst voor vandaag bekend is.
+
 ## 1.7.1
 
 - Achievements werken nu met de g/z getallen
@@ -19,7 +25,7 @@
 - Busnummers openen nu voor Qbuzz en Transdev de bijbehorende ritpagina op Busposities.nl.
 - Qbuzz-busbadges hebben weer de juiste opmaak en zijn klikbaar.
 - Live-status in Omlopen gelijkgetrokken met Dienstbegeleiding.
-- Optie â€˜regels zonder omloop tonenâ€™ verwijderd; deze regels blijven standaard zichtbaar.
+- Optie ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“regels zonder omloop tonenÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ verwijderd; deze regels blijven standaard zichtbaar.
 - Locaties staan in ritblokken nu bovenaan in vet, met het ritnummer eronder in kleiner grijs.
 
 ## 1.5.0
