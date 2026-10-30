@@ -1,5 +1,10 @@
 # Wijzigingen
 
+## 1.7.4
+
+- Mogelijkheid om push-notificaties te krijgen bij aanvang van je ritten!
+- outdated-info notificatie verplaatst naar 120s ipv 90s
+
 ## 1.7.3
 
 - Vriendenfunctie met vriendcodes, verzoeken en instelbaar delen toegevoegd.
@@ -32,7 +37,7 @@
 - Busnummers openen nu voor Qbuzz en Transdev de bijbehorende ritpagina op Busposities.nl.
 - Qbuzz-busbadges hebben weer de juiste opmaak en zijn klikbaar.
 - Live-status in Omlopen gelijkgetrokken met Dienstbegeleiding.
-- Optie ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œregels zonder omloop tonenÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ verwijderd; deze regels blijven standaard zichtbaar.
+- Optie ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¹Ãƒâ€¦Ã¢â‚¬Å“regels zonder omloop tonenÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ verwijderd; deze regels blijven standaard zichtbaar.
 - Locaties staan in ritblokken nu bovenaan in vet, met het ritnummer eronder in kleiner grijs.
 
 ## 1.5.0
